@@ -1,3 +1,3 @@
 # Google-Homepage-clone
 
-# website link: https://googlehomepage2.netlify.app/
+website link: https://googlehomepage2.netlify.app/
