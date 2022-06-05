@@ -227,7 +227,31 @@ footer {
 
 .lower-right-footer li {
     margin-left: 15px;
+    
 }
+
+
+/* NAV BAR */
+#nav_bar {
+    float: right;
+  }
+  
+  #nav_bar li {
+    display: inline-block;
+    padding: 8px;
+  }
+  
+  #nav_bar #sign_in {
+    background: #4887ef; 
+    margin-right: 25px;
+    padding: 10px 20px;
+    border-radius: 3px; 
+    
+  }
+  
+  .nav-links {
+    color: #404040;
+  }
 
 /* Mobile and Tablet */
 @media only screen and (max-width: 800px) {
